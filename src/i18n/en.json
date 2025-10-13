@@ -1,0 +1,40 @@
+{
+  "title": "CitizenCare Portal",
+  "next": "Next",
+  "back": "Back",
+  "helpMeWrite": "Help Me Write",
+  "submit": "Submit",
+  "aiWritingAssistant": "AI Writing Assistant for {{field}}",
+  "aiSuggestion": "Click “Generate” to get an AI-assisted text suggestion.",
+  "aiSuggestionError": "Failed to fetch AI suggestion. Please try again.",
+  "generate": "Generate",
+  "accept": "Accept",
+  "discard": "Discard",
+  "complete": "Complete",
+  "formSuccessful": "Form submitted successfully!",
+  "formError": "Failed to submit the form. Please try again.",
+  "pleaseCompletePreviousSteps": "Please complete previous steps.",
+  "form": {
+    "name": "Full Name",
+    "nationalId": "National ID",
+    "dob": "Date of Birth",
+    "gender": "Gender",
+    "email": "Email",
+    "address": "Address",
+    "city": "City",
+    "state": "State",
+    "country": "Country",
+    "phone": "Phone",
+    "maritalStatus": "Marital Status",
+    "dependents": "Dependents",
+    "employmentStatus": "Employment Status",
+    "monthlyIncome": "Monthly Income",
+    "housingStatus": "Housing Status",
+    "financialSituation": "Financial Situation",
+    "employmentCircumstances": "Employment Circumstances",
+    "reasonForApplying": "Reason for Applying"
+  },
+  "errors": {
+    "required": "{{field}} is required"
+  }
+}

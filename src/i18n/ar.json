@@ -1,0 +1,40 @@
+{
+  "title": "طلب الدعم الاجتماعي",
+  "next": "التالي",
+  "back": "السابق",
+  "helpMeWrite": "ساعدني في الكتابة",
+  "submit": "إرسال",
+  "aiWritingAssistant": "مساعد الكتابة بالذكاء الاصطناعي لـ {{field}}",
+  "aiSuggestion": "انقر على \"إنشاء\" للحصول على اقتراح نص بمساعدة الذكاء الاصطناعي.",
+  "aiSuggestionError": "فشل في جلب اقتراح الذكاء الاصطناعي. يرجى المحاولة مرة أخرى",
+  "generate": "إنشاء",
+  "accept": "قبول",
+  "discard": "رفض",
+  "complete": "اكتمل",
+  "formSuccessful": "تم إرسال النموذج بنجاح!",
+  "formError": "فشل في إرسال النموذج. يرجى المحاولة مرة أخرى.",
+  "pleaseCompletePreviousSteps": "يرجى إكمال الخطوات السابقة.",
+  "form": {
+    "name": "الاسم الكامل",
+    "nationalId": "الهوية الوطنية",
+    "dob": "تاريخ الميلاد",
+    "gender": "الجنس",
+    "email": "البريد الإلكتروني",
+    "address": "العنوان",
+    "city": "المدينة",
+    "state": "المقاطعة",
+    "country": "البلد",
+    "phone": "رقم الهاتف",
+    "maritalStatus": "الحالة الاجتماعية",
+    "dependents": "عدد المعالين",
+    "employmentStatus": "حالة العمل",
+    "monthlyIncome": "الدخل الشهري",
+    "housingStatus": "حالة السكن",
+    "financialSituation": "الوضع المالي",
+    "employmentCircumstances": "ظروف العمل",
+    "reasonForApplying": "سبب التقديم"
+  },
+  "errors": {
+    "required": "حقل {{field}} مطلوب"
+  }
+}
