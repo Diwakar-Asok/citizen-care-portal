@@ -7,7 +7,7 @@ export default function ProgressBar() {
   const { t } = useTranslation();
   const formState = useAppSelector((state) => state.form);
   const percent = calculateProgress(formState);
-  console.log("Progress percent:", percent, formState);
+  
   return (
     <div className="w-full">
       <div className="h-2 w-full rounded-full bg-gray-200">
